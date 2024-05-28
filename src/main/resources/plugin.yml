@@ -1,0 +1,4 @@
+name: NoInvisibility
+version: '${project.version}'
+main: me.blurry16.noinvisibility.NoInvisibility
+api-version: '1.20'
